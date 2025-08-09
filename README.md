@@ -5,6 +5,9 @@
 
 - By improving the detection accuracy (mAP@50: from 95.6% to 97.5%), this solution aims to ensure a safer and more reliable on-road ecosystem.
 
+## How to Run/Execute :
+> Final Model -> TSDAC V5
+
 ## Objective :
 
 - Detect and classify traffic signs in real time using YOLOv8m.
