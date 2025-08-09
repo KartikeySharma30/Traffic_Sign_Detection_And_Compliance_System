@@ -24,7 +24,7 @@
 
 - Format: YOLO-compatible with data.yaml mapping labels and bounding boxes.
 
-Libraries: YOLOv8, OpenCV, PIL, Pandas, Matplotlib, MoviePy, Roboflow API
+**Libraries Used** : YOLOv8, OpenCV, PIL, Pandas, Matplotlib, MoviePy, Roboflow API
 
 ## Workflow
 - Data Acquisition & Preparation
