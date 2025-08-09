@@ -67,3 +67,11 @@
 
 
 ## Sample Output
+<img width="1107" height="353" alt="Screenshot 2025-08-09 at 3 47 17 PM" src="https://github.com/user-attachments/assets/2218bca3-7869-4fba-a3cf-58be65526b81" />
+
+<img width="1352" height="484" alt="Screenshot 2025-08-09 at 3 48 56 PM" src="https://github.com/user-attachments/assets/1021a884-f6d7-4e39-b944-74faa92b6233" />
+
+<img width="1416" height="536" alt="Screenshot 2025-08-09 at 3 49 54 PM" src="https://github.com/user-attachments/assets/a871a63b-66d8-4a27-a5f2-c551f15dacf4" />
+
+<img width="1439" height="527" alt="Screenshot 2025-08-09 at 3 50 38 PM" src="https://github.com/user-attachments/assets/6697588d-a045-4d5f-a4dd-2a796884dbf6" />
+
