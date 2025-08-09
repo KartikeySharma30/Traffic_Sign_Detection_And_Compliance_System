@@ -15,9 +15,13 @@
 ## Dataset
 - Source : GTSRB and pkdarabi-cardetection
 - Structure:
+
   Train: 3,530 images
+
   Validation: 801 images
+
   Test: 638 images
+
 - Format: YOLO-compatible with data.yaml mapping labels and bounding boxes.
 
 Libraries: YOLOv8, OpenCV, PIL, Pandas, Matplotlib, MoviePy, Roboflow API
@@ -25,23 +29,32 @@ Libraries: YOLOv8, OpenCV, PIL, Pandas, Matplotlib, MoviePy, Roboflow API
 ## Workflow
 - Data Acquisition & Preparation
   > Download dataset via Kaggle API
+  
   > Roboflow-provided annotations for training/validation/testing
+  
   > Data mapped via data.yaml for YOLOv8 format
 
 - Model Training
   > Trained YOLOv8m on the dataset
+  
   > Fine-tuned confidence thresholds to improve detection accuracy
+  
   > Achieved mAP@50: 97.5%
 
 - Model Evaluation
   > Evaluated on test images and videos
+  
   > Compared precision, recall, and mAP scores
+  
   > Compliance System (Voice Alerts)
 
 - Mapped each detected traffic sign to a predefined audio alert
   > Selected prediction from the last frame in which the sign appeared for highest confidence
+  
   > Visualization & Output
+  
   > Annotated video output with detected traffic signs and labels
+  
   > Real-time video inference integrated with OpenCV and MoviePy
 
 ## Results 
